@@ -3,7 +3,7 @@
 
 $(call inherit-product, device/samsung/crownlte/full_crownlte.mk)
 
-PRODUCT_NAME := lineage_crownlte
+PRODUCT_NAME := crownlte
 
 # fix improper s-pen rotation
 PRODUCT_COPY_FILES += \

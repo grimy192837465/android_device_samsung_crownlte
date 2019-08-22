@@ -27,4 +27,4 @@ PRODUCT_LOCALES := en-GB
 
 # Keylayout
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/keylayout/crownlte.kl:system/usr/keylayout/crownlte.kl
+    $(DEVICE_PATH)/keylayout/crownlte.kl:system/usr/keylayout/crownlte.kl

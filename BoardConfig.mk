@@ -8,7 +8,7 @@ TARGET_OTA_ASSERT_DEVICE := crownltexx,crownlteks,crownlte
 
 # Kernel
 TARGET_KERNEL_CONFIG := exynos9810-crownlte_defconfig
-TARGET_KERNEL_SOURCE := kernel/samsung/universal9810-crown
+TARGET_KERNEL_SOURCE := yarpiin_defconfig
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth

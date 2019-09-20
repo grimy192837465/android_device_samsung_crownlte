@@ -2,4 +2,4 @@
 # SPDX-License-Identifier: Apache-2.0
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_crownlte.mk
+    $(LOCAL_DIR)/superior_crownlte.mk

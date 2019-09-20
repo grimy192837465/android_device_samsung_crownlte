@@ -10,7 +10,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/crownlte/device.mk)
 
 # Inherit some common ROM stuff.
-$(call inherit-product, vendor/aosip/config/common.mk)
+$(call inherit-product, vendor/superior/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := crownlte
